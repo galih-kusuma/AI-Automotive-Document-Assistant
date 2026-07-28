@@ -26,4 +26,4 @@ Sistem ini terdiri dari 2 alur utama (*Flows*):
 
 1. **Clone Repositori**:
    ```bash
-   git clone [https://github.com/username-kamu/AI-Automotive-Document-Assistant.git](https://github.com/username-kamu/AI-Automotive-Document-Assistant.git)
+   git clone [https://github.com/galih-kusuma/AI-Automotive-Document-Assistant.git](https://github.com/galih-kusuma/AI-Automotive-Document-Assistant.git)
